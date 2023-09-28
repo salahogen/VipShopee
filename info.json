@@ -4,6 +4,11 @@
    "devices": ["M2006C3MG0C1935A5200DF5D3"],
    "expiry": "25-10-2023 12:59 AM"
  },
+  "klepo4545": {
+   "password": "$2y$12$mHtLxZiuy1Syn/4bHYtWX.X1XPFYK6ET6GFpiHB.fnagZhyQThmTu",
+   "devices": ["INFINIXX6920FE00B5B55C233B8"],
+   "expiry": "07-10-2023 12:59 AM"
+ },
   "cahayana": {
    "password": "$2y$12$wgzybwk7KKjwjgg5wajlH./MCZGH.7okvrRWMU0KxDVskGAjWwsr6",
    "devices": ["2201117TY9F2BCD1A85C77B14"],
