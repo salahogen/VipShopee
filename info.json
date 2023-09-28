@@ -4,6 +4,11 @@
    "devices": ["M2006C3MG0C1935A5200DF5D3"],
    "expiry": "25-10-2023 12:59 AM"
  },
+  "cahayana": {
+   "password": "$2y$12$wgzybwk7KKjwjgg5wajlH./MCZGH.7okvrRWMU0KxDVskGAjWwsr6",
+   "devices": ["2201117TY9F2BCD1A85C77B14"],
+   "expiry": "28-10-2023 12:59 AM"
+ },
   "julpa123": {
    "password": "$2y$12$CthrTy4LNhKvXtQgKNSg9ugADzjXyMxHwl3Rel2QRiRLe0b2MPWXK",
    "devices": ["SM-J730GA486C0789C23B020"],
