@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRODC742EDE4C30EE59","REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "28-09-2024 12:00 PM"
  },
+  "shp1_10_22": {
+   "password": "$2y$12$usltsaOlaW2RRa7JQsBEyuFdwxzikhnYpqlYX.8aXORsUR9VQQPWm",
+   "devices": ["TECNOLF7NDD5FE166698EAC59"],
+   "expiry": "01-11-2023 12:00 PM"
+ },
   "hsp757575": {
    "password": "$2y$12$Iz0kJBx29GSD7safqPhfqeLQBcgSYKcdJHoGDMdtt0.544Iy5hyOW",
    "devices": ["VIVO18074B051427"],
