@@ -9,6 +9,11 @@
    "devices": ["M2006C3MGEA202B001C6172E2","CPH18232392931CF22B678B"],
    "expiry": "02-11-2023 12:00 PM"
  },
+  "Dwi54545": {
+   "password": "$2y$12$F8TbF4XZBT8Gc..zmAhbu.TqpLk4AalsHu32b6dDNrgl/U7UZK.vO",
+   "devices": ["RMX3430C4867B2B117DD913"],
+   "expiry": "29-10-2023 12:00 PM"
+ },
   "shp1_10_22": {
    "password": "$2y$12$usltsaOlaW2RRa7JQsBEyuFdwxzikhnYpqlYX.8aXORsUR9VQQPWm",
    "devices": ["TECNOLF7NDD5FE166698EAC59"],
