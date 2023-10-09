@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRODC742EDE4C30EE59","REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "28-09-2024 12:00 PM"
  },
+  "JinJinJin": {
+   "password": "$2y$12$7nNW9Hl4xfaN.rZLJvPwyuGMnQDSGeZs0Y7mKRknAMrNdtcHnkZM6",
+   "devices": ["INFINIXX68161FF13F7A29C19912"],
+   "expiry": "09-11-2023 12:00 PM"
+ },
   "doen1717": {
    "password": "$2y$12$V1cyYaqkmKUeFDinVXXyx.5ogtRcHhl4dnHG60yZ7VJAls9spT0xy",
    "devices": ["INFINIXX68270EC2F358DD32636B"],
