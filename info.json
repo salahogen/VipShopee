@@ -9,20 +9,10 @@
    "devices": ["VIVO1819784381617CA8BEE9"],
    "expiry": "20-11-2023 12:00 PM"
  },
-  "testfake": {
-   "password": "$2y$12$E9Yw69ArpcBthnv2iBgHQuWizoxuX9Frc21fMWnzV3T9fJxNFq9pC",
-   "devices": ["SM-A750GNDA0AF56325FEEAEF"],
-   "expiry": "19-10-2022 12:00 PM"
- },
   "apri5555": {
    "password": "$2y$12$KQMR/vvHjxuC9hPpoShLS.Pg4nZFNVHO4M7cGu2xmWdI8nxoYIHem",
    "devices": ["M2010J19CG010571C965B26F45"],
    "expiry": "30-11-2023 12:00 PM"
- },
-  "JinJinJin": {
-   "password": "$2y$12$7nNW9Hl4xfaN.rZLJvPwyuGMnQDSGeZs0Y7mKRknAMrNdtcHnkZM6",
-   "devices": ["INFINIXX68161FF13F7A29C19912"],
-   "expiry": "09-11-2023 12:00 PM"
  },
   "doen1717": {
    "password": "$2y$12$V1cyYaqkmKUeFDinVXXyx.5ogtRcHhl4dnHG60yZ7VJAls9spT0xy",
@@ -54,20 +44,10 @@
    "devices": ["TECNOLF7NDD5FE166698EAC59"],
    "expiry": "01-11-2023 12:00 PM"
  },
-  "hsp757575": {
-   "password": "$2y$12$Iz0kJBx29GSD7safqPhfqeLQBcgSYKcdJHoGDMdtt0.544Iy5hyOW",
-   "devices": ["VIVO18074B051427"],
-   "expiry": "17-10-2023 12:00 PM"
- },
   "samsul55": {
    "password": "$2y$12$n0ruGMtUaJOG1WoMTeEHx.PYnub/yz0RUULaerS.xyFyggFd2ZqUK",
    "devices": ["CPH20156217F7F3AC4EE3F8"],
    "expiry": "30-10-2023 12:00 PM"
- },
-  "slembot123": {
-   "password": "$2y$12$OYZyzeLKJFIKE002LS6m4.Uony80lkhSBjgr8mBPE4Ynne5ibZ8OW",
-   "devices": ["M2006C3MG45561FB3D7EAD0C3"],
-   "expiry": "25-10-2023 12:59 AM"
  },
   "klepo4545": {
    "password": "$2y$12$mHtLxZiuy1Syn/4bHYtWX.X1XPFYK6ET6GFpiHB.fnagZhyQThmTu",
@@ -78,20 +58,5 @@
    "password": "$2y$12$wgzybwk7KKjwjgg5wajlH./MCZGH.7okvrRWMU0KxDVskGAjWwsr6",
    "devices": ["2201117TY9F2BCD1A85C77B14"],
    "expiry": "28-10-2023 12:59 AM"
- },
-  "julpa123": {
-   "password": "$2y$12$CthrTy4LNhKvXtQgKNSg9ugADzjXyMxHwl3Rel2QRiRLe0b2MPWXK",
-   "devices": ["SM-J730GA486C0789C23B020"],
-   "expiry": "11-10-2023 12:00 PM"
- },
-  "denni22334": {
-   "password": "$2y$12$kFK0vqIn/9sSDMVyXfoEM.PE4tUoy6pajGOmUNXn0BgurMjN3YioG",
-   "devices": ["INFINIXX6833BBB40DC6D8D1526EE"],
-   "expiry": "13-10-2023 12:59 AM"
- },
-  "riko2222": {
-   "password": "$2y$12$tpKkAs1buIbGxYlZUGymcOsRF8ivlsC4RJaU.CNayKb8u2nenceHO",
-   "devices": ["VIVO171666E9CE83"],
-   "expiry": "16-10-2023 12:59 AM"
  },
 }
