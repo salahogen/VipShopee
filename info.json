@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRODC742EDE4C30EE59","REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "28-09-2024 12:00 PM"
  },
+  "felix1112": {
+   "password": "$2y$12$G9c1lxPePA8jpk2IIvgMfuRm9FEJLoSvJTtgIN9NRltt3WYMWipf2",
+   "devices": ["REDMINOTE88FF7698F21BDCA38"],
+   "expiry": "11-12-2023 12:00 PM"
+},
   "aries1012": {
    "password": "$2y$12$Qxs2SchOOJzhD/rctUdX0uqmz6jHVrw.N/05EzZyvPhlFNPrhVKGS",
    "devices": ["PIXEL5F7F3BDE82E63BF78"],
