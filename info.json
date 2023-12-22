@@ -4,6 +4,11 @@
    "devices": ["REDMINOTE9PRODC742EDE4C30EE59","REDMINOTE9PRO5C1031A7B688B47A"],
    "expiry": "28-09-2024 12:00 PM"
  },
+  "krecokreco": {
+   "password": "$2y$12$11CWSDE4CiQCwehLxtSAfuLSuxnqmgfgiV2ec6zCihL8HhnDLFEDK",
+   "devices": ["REDMINOTE57119E8C21BFF9B42"],
+   "expiry": "01-12-2028 12:00 PM"
+},
   "GHOST1901": {
    "password": "$2y$12$dGKZHm7pe976DDgUJkVdXeUC0zFvGEpDVNjj53H6s8ZdftBnK5m9G",
    "devices": ["VIVO18074B051427"],
